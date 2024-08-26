@@ -1,0 +1,105 @@
+# doubleSlash
+
+Ao usar quaisquer Documentos ou Softwares que estejam acompanhados desta licença você automaticamente "Concorda com o Contrato de Licena e Uso dos Conteúdos de Aulas e Softwares da doubleSlash " em cada documento de aula, o Usuário ou seus pais/responsáveis, quando for o caso, estará(ão) manifestando ampla e definitiva ACEITAÇÃO com todos os termos cláusulas e condições do Contrato de Licença de Uso de Deste Conteúdo e Regulamentos, razão pela qual a doubleSlash, recomenda que, antes de expressar sua concordância, o Usuário, assistido ou representado por seus pais ou responsáveis conforme o caso, faça a leitura atenta do referido documento, que se segue:
+<br /><br />
+## doubleSlash
+### CONTRATO DE LICENÇA DE USO DE DOCUMENTOS E SOFTWARE DA DOUBLESLASH
+<br />
+
+**I.** Das Partes
+São partes deste Contrato de Licença de Uso do Documentos e Software doubleSlash (doravante referido como "Contrato de Licença"):<br /><br />
+**a.** doubleSlash ("DS"), sociedade devidamente organizada e existente de acordo com as leis dos Brasil, com sede em 100 Doutor João Higino Batista 100, São Paulo, São Paulo 02836-040, doravante designada simplesmente DS; e <br /><br />
+**b.** Para os efeitos do presente contrato, Usuário(a) dos Documentos e Softwares ("Usuário"), é a pessoa identificada por ocasião do preenchimento do formulário de "CADASTRO", disponível no formulário Google da doubleSlash ("Site") e outros sites anunciados pela empresa, dados esses que são pessoais e intransferíveis e se presumem verdadeiros para todos os fins e efeitos de direito, respondendo exclusiva e diretamente o próprio Usuário por tal veracidade. Por meio do cadastro, o Usuário deverá preencher o formulário com seus dados que serão a identificação pessoal e intransferível de cada Usuário.<br />
+
+**II.** Cláusulas e condições Gerais<br /><br />
+**1.** Requisitos Básicos<br /><br />
+**1.1.** A partir da adesão a este Contrato, a qualquer título, a DS estará, na melhor forma de direito, outorgando ao Usuário uma licença de uso, em caráter não exclusivo e intransferível, para a utilização dos Documentos e Softwares no Território Brasileiro, Americano e Japonês, por prazo indeterminado.<br /><br />
+    **1.2.** O Usuário deve verificar se possui os requisitos necessários para acesso e utilização dos Documentos e Softwares, que estão disponíveis após o cadastro.<br /><br />
+    **1.3.** Os Documentos e Softwares ("Software") estarão disponíveis ao Usuário, pela DS, no E-mail ou Canais de Discord. O Usuário reconhece e concorda que poderá ser necessária a atualização dos Documentos e Softwares, de tempos em tempos, a exclusivo critério da DS.
+
+**2.** Do Registro do Usuário
+<br /><br />
+    **2.1.** O Usuário deverá registrar seus dados sempre associadas a um endereço eletrônico ("e-mail").
+<br /><br />
+    **2.2.** Em consonância com a cláusula 21 deste Contrato, o usuário reconhece que o cadastro eletrônico no formulário é apenas o veículo de acesso aos documentos e softwares e que a licença de uso outorgada é para acesso de uso aos itens virtuais, não tendo o condão de transmitir as propriedades intelectuais e dos softwares, que continuam sendo propriedade da DS e/ou seus parceiros.
+
+**3.** Das Informações Prestadas<br /><br />
+**3.1.** É da responsabilidade do usuário fornecer informações verdadeiras, exatas e corretas no momento em que efetuar o seu cadastro, bem como mantê-las atualizadas. Isso inclui um e-mail válido e acessível pelo usuário.<br /><br />
+**3.2** A DS reserva-se o direito de não alterar os dados que comprovam a titularidade do direito de posse e não distribuição dos Documentos e Softwares, sendo eles: o nome de registro e data de nascimento. Eventuais correções poderão ser feitas, desde que não impliquem na mudança de titularidade do direito de posse e não distribuição.
+
+4. Dos Requisitos Essenciais<br />
+4.1. São requisitos essenciais para utilização dos Documentos e Softwares:
+<br />
+(I) o Cadastro;<br />
+(II) um endereço eletrônico válido ("e-mail");<br />
+(III) o uso de uma instalação (hardware e software) compatível com as configurações técnicas informadas pela DS via e-mail;<br />
+(IV) a instalação no computador dos Documentos ou Softwares;<br />
+(V) o desbloqueio de sistemas que impeçam o acesso aos documentos ou softwares.<br /><br />
+
+**5.** Do Endereço Eletrônico ("e-mail") Válido<br /><br />
+**5.1.** É imprescindível para o registro dos dados e para acesso ao documentos e softwares propriamente dito que o Usuário tenha um endereço eletrônico ("e-mail") válido. A DS recomenda que o Usuário se certifique de que sua caixa de e-mail está apta a receber mensagens da DS.<br /><br />
+**5.2.** O Usuário concorda que a DS utilize o e-mail informado para enviar informações sobre os Documentos e Softwares, informações gerais ou quaisquer outras notificações que se façam necessárias.<br /><br />
+
+**6.** Da Interrupção dos Serviços<br /><br />
+**6.1.** A DS reserva o direito de interromper o acesso aos seus conteúdos quaisquer que sejam, independentemente de prévio aviso aos Usuários, sempre que, por medida de urgência se fizer necessária uma intervenção de natureza corretiva.<br /><br />
+**6.2.** O Usuário concorda que, além das hipóteses de manutenção preventiva e/ou corretiva previstas acima, o acesso ao Site, Documentos e Softwares poderá também ser interrompido por motivos de Força Maior, Caso Fortuito e qualquer outro motivo alheio ao controle e vontade da DS. A DS não se responsabiliza pela interrupção do serviço, atrasos ou falhas resultantes de quaisquer causas além de seu controle.<br /><br />
+
+**7.** Das Condutas Inaceitáveis previstas no Código de Conduta<br /><br />
+**7.1.** Para garantir o bom convívio dos Usuários, a DS não permitirá que os Usuários realizem Condutas Inaceitáveis e, quando isso ocorrer, a DS reserva-se o direito de agir através de processos legais correspondente conforme as leis de origem do país. A fim de manter o nível de lealdade entre os usuários, a DS solicita a colaboração dos Usuários em notificar a ocorrência de Condutas Inaceitáveis, as quais serão objeto de Sanções pela DS.<br /><br />
+**7.2.** As Condutas Inaceitáveis estão listadas, de forma exemplificativa, no grupo do Discord e Site. A DS poderá adequar ou incluir novas Condutas Inaceitáveis, sempre em benefício dos seus Documentos e Softwares. A divulgação de eventuais adequações ou inclusões aos Usuários dar-se-á por meio do grupo do Discord e Site. É de responsabilidade do Usuário manter-se informado quanto ás atualizações das Regras de Conduta.<br /><br />
+**7.3.** O Usuário respeitará integralmente as regras do Código de Conduta do Grupo estão disponíveis no Grupo do Discord e Site. A não observância das referidas regras implicará na aplicação da(s) respectiva(s) punição(ões).<br /><br />
+**7.4.** O Usuário declara ter ciência e concordar com as penalidades previstas no Código de Conduta do Grupo do Discord e Site.<br /><br />
+**7.5**  O uso de quaisquer programas, sistemas, rotinas, computadores ou dispositivos automatizados ilegais com os Documentos ou Softwares, Serviços ou Sites da DS é estritamente proibido e pode resultar em ações legais de acordo com as normas vigentes do país e com o Lei de Fraude e Abuso de Computadores (Computer Fraud and Abuse Act, Section 1030) federal do Estados Unidos. O desrespeito dessas normas pode resultar em ações judiciais de acordo com a lei, com as respectivas e cabíveis indenizações punitivas.<br /><br />
+
+**8.** Dos Direitos da DS em face de Conduzas Inaceitáveis<br /><br />
+**8.1.** A DS terá o direito de rever e suprimir do Grupo do Discord e Site todo o conteúdo, mensagens ou demais comunicados que considerar como decorrentes de Condutas Inaceitáveis, sendo de sua decisão o julgamento do que é considerado ofensivo, ilegal, ou acarretar a usurpação de direitos, prejudicar ou ameaçar a segurança de outro Usuário.<br /><br />
+**8.2.** Em caso de prática de quaisquer das Condutas Inaceitáveis, além de aplicar ao Usuário as penalidades correspondentes, a DS poderá revelar ás autoridades policiais, administrativas ou judiciárias, os dados cadastrais dos Usuários que tenham praticado qualquer ato que implique em violação das leis da República Federativa do Brasil ou dos direitos de terceiros interessados.<br /><br />
+
+**9.** Da Rescisão Contratual:<br /><br />
+**9.1.** A rescisão contratual com cancelamento de "Cadastro de Usuário" antes de terminados e/ou consumidos os créditos adquiridos dar-se-á nas seguintes hipóteses e condições:<br /><br />
+**9.1.1.** Por desistência do consumidor: quando este, a qualquer momento, solicitar a rescisão do contrato.<br /><br />
+**9.1.2** Pela prática de Conduta Inaceitável: quando o consumidor violar qualquer Regra de Conduta do Grupo do Discord e/ou do Site cuja punição resulte na suspensão do acesso aos anteriormente mencionados. No caso de suspensão de uma Cadastro de Usuário, a DS pode rescindir outros Cadastros de Usuário relacionadas se houver determinação de que elas também estejam em violação ás Regras de Conduta.<br /><br />
+**(A)** Na hipótese de cancelamento do "Cadastro do Usuário" decorrente de violação da Regra de Conduta do Grupo do Discord e/ou do Site, por parte do consumidor, não haverá restituição de valores ainda não consumidos.<br /><br />
+**9.2.** Os Créditos, conquistas e/ou quaisquer outros elementos virtuais não serão ressarcidos ao consumidor por ocasião de eventual rescisão do presente contrato, independentemente dos motivos que ocasionem o término da relação entre o usuário e a DS.
+
+**10.** Do Encerramento das Operações:<br /><br />
+**10.1** A DS se reserva o direito de encerrar as operações dos seus serviços feitos por meio de arquivos, vídeos, imagens, documentos, acessos a grupos, comunidades, portais, plataformas, sites e software por decisão governamental ou judicial que determine a extinção do mesmo e/ou por motivos de força maior, alheios à vontade e sobre o controle da DS.<br /><br />
+**10.2** A DS se reserva o direito de encerrar as operações de seus serviços e produtos. Nesse caso, a DS comunicará previamente o usuário com 30 dias de antecedência e assegurará ao Usuário o direito de consumir os créditos remanescentes durante o período prévio do encerramento das operações dos serviços.
+
+**11.** Da Propriedade Intelectual<br /><br />
+**11.1.** O Usuário reconhece expressamente que os Documentos e Softwares //doubleSlash, em conjunto com os logotipos, marcas, insígnias, símbolos, sinais distintivos, documentação e quaisquer outros materiais correlatos a esses arquivos e programas de computador, constituem, conforme o caso, direitos autorais, segredos comerciais, e/ou direitos de propriedade da DS ou de seus licenciadores, sendo tais direitos protegidos pela legislação nacional e internacional aplicável à propriedade intelectual, aos direitos autorais e aos segredos de negócio e de indústria, especialmente pelo que contêm as Leis números 9.609 e 9.610, de 19.02.98. Em nenhuma hipótese esses bens e direitos serão transferidos ao Usuário, seja em decorrência da aquisição da licença de uso inerente aos Documentos e Softwares, seja em face da sua utilização.<br /><br />
+**11.2.** A distribuição dos Documentos e Softwares //doubleSlash é exclusividade da DS. Fica expressamente vedado ao Usuário e a terceiros, sob as penas da lei: vender; locar; alugar; arrendar; ceder; doar; emprestar; reproduzir; adaptar; traduzir; dar em garantia; permitir a penhora; oferecer em comodato; transferir; transmitir; permitir o uso compartilhado; disponibilizar para acesso ou utilização por terceiros seja via on-line ou de qualquer outra forma; fazer, dar permissão para que se faça ou contribuir para que sejam feitas descompilação, reengenharia, engenharia reversa, modificação das características, ampliação, alteração, mesclagem ou incorporação em quaisquer outros programas ou sistemas; enfim, alienar total ou parcialmente, provisória ou permanentemente, de forma gratuita ou onerosa, sob quaisquer modalidades, formas ou títulos os Documentos e Softwares //doubleSlash.<br /><br />
+
+**12.** Da Responsabilidade da DS<br /><br />
+**12.1.** Caso seja apontado pelo usuário qualquer defeito no(s) suporte(s) informático(s) contendo os documentos e softwares de instalação e/ou na documentação a ele inerente, a DS substituirá a mídia e/ou a documentação considerada defeituosa.<br /><br />
+**12.2.** O usuário concorda que a DS não é responsável por ameaças, conteúdo ou conduta difamatória, obscena, ofensiva ou ilegal de terceiros ou qualquer usuário, violação de direitos, incluindo direitos de propriedade intelectual.<br /><br />
+**12.3.** A DS toma todas as providências para manter um bom nível de cordialidade e decoro entre os seus usuários no ambiente de sua plataforma e Grupo do Discord. Em nenhuma hipótese, será responsabilizada por eventuais atos contrários à tal política praticados por usuários ou terceiros.<br /><br />
+**12.4.** Limitações de Responsabilidade<br /><br />
+**12.4.1** O Usuário concorda que a DS não assumirá nem terá nenhuma responsabilidade por quaisquer ações da DS ou de seus provedores de conteúdo ou outras licenciadoras com respeito à conduta, comunicação ou conteúdo dos serviços. A DS não será responsável por nenhum dano indireto, incidental, especial, punitivo, exemplar ou consequencial (incluindo, sem limitação, à perda de lucros, interrupção de negócios, perda de informação de negócios ou qualquer outro dano pecuniário) em conexão aos serviços ou produtos oferecidos pela DS. Toda a responsabilidade da DS e reparações legais com respeito ao uso de seus serviços e todo conteúdo, documentos e softwares desenvolvidos pela ou para serviços da DS que venham a ser defeituosos usando uma mídia escolhida pelos serviços da DS será limitada a uma quantia igual ao total pago pelo usuário pelo serviço defeituoso subtraído pela quantia igual ao valor do serviço pelo tempo pelo qual operou corretamente. A responsabilidade da DS em relação ao usuário por toda e qualquer violação deste contrato se limita somente à quantia total de crédito restante na Conta do Usuário.<br /><br />
+**12.4.2** Tendo em vista que algumas jurisdições não admitem a exclusão ou a limitação de responsabilidade por danos consequenciais ou incidentais, a responsabilidade da DS deverá ser limitada até o máximo limite admitido por lei.<br /><br />
+
+**13.** Indenização<br /><br />
+O Usuário concorda em indenizar, defender e isentar de responsabilidade a DS e suas subsidiárias, afiliadas, respectivos diretores, dirigentes, funcionários, acionistas, agentes, Clientes de Prestadores de Serviço, clientes e subcontratados de e contra qualquer dano, reivindicação, exigência, custo ou gasto (inclusive de custos legais razoáveis) reclamados por quaisquer terceiros devido ou em conexão com a conduta do usuário no Serviço, Conteúdo, violação deste Contrato ou violação de quaisquer outros direitos de outro Usuário. A DS se reserva o direito de assumir a defesa exclusiva e controle de qualquer assunto que esteja de outro modo sujeito à indenização pelo usuário, o que não dispensará as obrigações indenizatórias do usuário.<br /><br />
+
+**14.** Isenção de Responsabilidade de Garantias
+Você explicitamente concorda que o serviço e conteúdo estão sendo prestados "tal como está" e "conforme disponibilizado," e que você faz uso do serviço sob seu próprio risco e responsabilidade. A DS e todos seus parceiros oficiais explicitamente abrem mão de garantias de qualquer natureza, seja ela expressa ou implícita, incluindo, mas não se limitando a garantias de comercialização, adequação a um propósito específico, não-violação de propriedade intelectual ou outras violações de direito. A DS e todos seus parceiros oficiais não garantem que o serviço atingirá seus requerimentos ou que o serviço será ininterrupto, pontual, seguro ou isento de erros. A DS e todos seus parceiros oficiais não oferecem qualquer garantia ou promessa dos resultados que poderão ser obtidos pelo uso do serviço, que os resultados obtidos de tal uso serão confiáveis ou precisos, ou que a qualidade de quaisquer produtos, serviços, informações ou qualquer material comprado ou obtido pelo usuário por meio do serviço atingirão suas expectativas. A DS não garante que defeitos em seu software serão corrigidos ou que os sites ou servidores disponibilizados estarão livres de vírus ou qualquer outro componente nocivo. Você compreende e concorda que qualquer material e/ou dados baixados ou obtidos de qualquer outra forma por meio do uso do serviço são feitos por vontade própria e por seu próprio risco e que você será o único responsável por qualquer dano ao seu sistema de computação ou perda de dados resultante de baixar tais materiais ou dados. Nenhum conselho ou informação, seja oral ou escrita, obtido da DS ou de qualquer parceiro oficial, ou por meio do serviço, criará qualquer vínculo de garantia que não esteja explicitamente comunicado no contrato. Você concorda que a DS não pode ser responsabilizada por algo que ocorra ou resulte do acesso aos seus serviços.<br /><br />
+
+**15** - Dos Cuidados Médicos<br /><br />
+**15.1**. É sabido que uma porcentagem muito pequena de indivíduos pode sofrer crises de epilepsia quando expostos a determinados testes padrões por luzes piscantes, certos tipos de ruídos, leitura prolongada, privação de sono, fadiga, hipoglicemia (baixo nível de açúcar no sangue), etc. A exposição a determinados testes padrões com documentos e softwares de computador pode induzir uma crise nestes indivíduos. Além disso, determinadas circunstâncias podem induzir sintomas de epilepsia mesmo nas pessoas que não têm nenhum histórico de surtos de epilepsia. Se o Usuário, ou qualquer membro de sua família, tiver epilepsia, consulte seu médico antes de usar nossos serviços.<br /><br />
+**15.2.** O Usuário deverá IMEDIATAMENTE interromper o uso dos nossos serviços e consultar seu médico caso apresente sintomas como: crise de ausência; distorções de percepção, movimentos descontrolados de uma parte do corpo, medo repentino, enjoos, deturpações na audição e/ou visão ou perda da consciência.<br /><br />
+
+**16.** Das Disposições Gerais
+**16.1.** Este Contrato de Licença, que deverá ser interpretado conjuntamente com as Regras de Conduta do Grupo do Discord e Site, Política de Contas e demais documentos pertinentes aos nossos serviços, é o único instrumento a reger a relação entre a DS e o Usuário, sendo que este documento substitui quaisquer instrumentos anteriores entre a DS e o Usuário e não prevalecerá sobre quaisquer termos e condições adicionais de que o Usuário seja notificado pela DS. A DS pode alterar este Contrato de Licença a qualquer momento exclusivamente a seu critério, e a referida alteração passará a vigorar a partir de sua divulgação por meio do Grupo do Discord e Site oficial. Todas as vezes que o Usuário concordar em usar nossos serviços, o usuário automaticamente concorda com este Contrato e estará ratificando sua ampla e irrestrita aceitação a todos os termos e condições dele, assim como com todas as alterações que o Contrato de Licença venha a receber.<br /><br />
+**16.2.** No caso de qualquer disposição do presente Contrato de Licença vir a ser considerada inválida, ilegal ou inaplicável, a validade, legalidade e aplicabilidade das disposições restantes não serão de modo algum afetadas ou prejudicadas. Nessa hipótese, a disposição considerada inválida, ilegal ou inaplicável deverá ser substituída por outra que conduza as partes ao mesmo resultado econômico e jurídico almejado.<br /><br />
+**16.3.** As partes reconhecem e declaram que o não exercício ou o atraso em exercer qualquer direito que lhes seja assegurado por este Contrato de Licença ou pela lei será tido como mera liberalidade e não constituirá novação ou renúncia desses direitos nem às demais cláusulas aqui constantes. A renúncia, por qualquer das Partes, de quaisquer desses direitos deverá ser interpretada restritivamente.
+
+**17.** Violações
+17.1 Favor relatar quaisquer violações dos Termos do Contrato aos departamentos responsáveis usando o sistema de suporte no grupo do Discord e/ou Formulário de Contato.<br /><br />
+
+**18.** Limitações dos Territórios de Acesso ao Serviço
+18.1 A DS notifica oficialmente que não oferece quaisquer serviços aos Usuários europeus. Se você é um Usuário Europeu, por favor não tente acessar os nossos documentos, sites ou softwares por meio de qualquer serviço da DS. Além disso, se você adquirir nova nacionalidade, por qualquer razão, e se tornar um Usuário europeu depois de usar serviços da DS, você deve notificar a DS para rescindir sua Conta de Usuário e acesso aos serviços da DS sob as condições deste Contrato.<br /><br />
+
+**19.** Da Lei Aplicável e do Foro
+**19.1.** Toda e qualquer controvérsia ou disputa oriunda deste Contrato de Licença deverá ser resolvida de forma exclusiva e definitiva pelo Foro do domicílio do requerido com base nas leis do Brasil.<br /><br />
+
+São Paulo, 20 de Agosto de 2024.
