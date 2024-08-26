@@ -1,10 +1,10 @@
 doubleSlash
 
-Ao usar quaisquer Documentos ou Softwares que estejam acompanhados desta licença você automaticamente "Concorda com o Contrato de Licena e Uso dos Conteúdos de Aulas e Softwares da doubleSlash " em cada documento de aula, o Usuário ou seus pais/responsáveis, quando for o caso, estará(ão) manifestando ampla e definitiva ACEITAÇÃO com todos os termos cláusulas e condições do Contrato de Licença de Uso de Deste Conteúdo e Regulamentos, razão pela qual a doubleSlash, recomenda que, antes de expressar sua concordância, o Usuário, assistido ou representado por seus pais ou responsáveis conforme o caso, faça a leitura atenta do referido documento, que se segue:
+Ao usar quaisquer Documentos ou Softwares que estejam acompanhados desta licença você automaticamente "Concorda com o Contrato de Licença e Uso dos Conteúdos de Aulas e Softwares da doubleSlash " em cada documento de aula, o Usuário ou seus pais/responsáveis, quando for o caso, estará(ão) manifestando ampla e definitiva ACEITAÇÃO com todos os termos cláusulas e condições do Contrato de Licença de Uso de Deste Conteúdo e Regulamentos, razão pela qual a doubleSlash, recomenda que, antes de expressar sua concordância, o Usuário, assistido ou representado por seus pais ou responsáveis conforme o caso, faça a leitura atenta do referido documento, que se segue:
 ::doubleSlash::
 CONTRATO DE LICENÇA DE USO DE DOCUMENTOS E SOFTWARE DA DOUBLESLASH
 I. Das Partes
-São partes deste Contrato de Licença de Uso do Documentos e Software doubleSlash (doravante referido como "Contrato de Licença"):
+São partes deste Contrato de Licença de Uso dos Documentos e Software doubleSlash (doravante referido como "Contrato de Licença"):
 a. doubleSlash ("DS"), sociedade devidamente organizada e existente de acordo com as leis dos Brasil, com sede em 100 Doutor João Higino Batista 100, São Paulo, São Paulo 02836-040, doravante designada simplesmente DS; e 
 b. Para os efeitos do presente contrato, Usuário(a) dos Documentos e Softwares ("Usuário"), é a pessoa identificada por ocasião do preenchimento do formulário de "CADASTRO", disponível no formulário Google da doubleSlash ("Site") e outros sites anunciados pela empresa, dados esses que são pessoais e intransferíveis e se presumem verdadeiros para todos os fins e efeitos de direito, respondendo exclusiva e diretamente o próprio Usuário por tal veracidade. Por meio do cadastro, o Usuário deverá preencher o formulário com seus dados que serão a identificação pessoal e intransferível de cada Usuário.
 
@@ -15,8 +15,8 @@ II. Cláusulas e condições Gerais
 1.3. Os Documentos e Softwares ("Software") estarão disponíveis ao Usuário, pela DS, no E-mail ou Canais de Discord. O Usuário reconhece e concorda que poderá ser necessária a atualização dos Documentos e Softwares, de tempos em tempos, a exclusivo critério da DS.
 
 2. Do Registro do Usuário
-2.1. O Usuário deverá registrar seus dados sempre associadas a um endereço eletrônico ("e-mail").
-2.2. Em consonância com a cláusula 21 deste Contrato, o usuário reconhece que o cadastro eletrônico no formulário é apenas o veículo de acesso aos documentos e softwares e que a licença de uso outorgada é para acesso de uso aos itens virtuais, não tendo o condão de transmitir as propriedades intelectuais e dos softwares, que continuam sendo propriedade da DS e/ou seus parceiros.
+2.1. O Usuário deverá registrar seus dados sempre associados a um endereço eletrônico ("e-mail").
+2.2. Em consonância com a cláusula 2.1 deste Contrato, o usuário reconhece que o cadastro eletrônico no formulário é apenas o veículo de acesso aos documentos e softwares e que a licença de uso outorgada é para acesso de uso aos itens virtuais, não tendo o condão de transmitir as propriedades intelectuais e dos softwares, que continuam sendo propriedade da DS e/ou seus parceiros.
 
 3. Das Informações Prestadas
 3.1. É da responsabilidade do usuário fornecer informações verdadeiras, exatas e corretas no momento em que efetuar o seu cadastro, bem como mantê-las atualizadas. Isso inclui um e-mail válido e acessível pelo usuário.
@@ -31,16 +31,16 @@ II. Cláusulas e condições Gerais
 (v) o desbloqueio de sistemas que impeçam o acesso aos documentos ou softwares.
 
 5. Do Endereço Eletrônico ("e-mail") Válido
-5.1. É imprescindível para o registro dos dados e para acesso ao documentos e softwares propriamente dito que o Usuário tenha um endereço eletrônico ("e-mail") válido. A DS recomenda que o Usuário se certifique de que sua caixa de e-mail está apta a receber mensagens da DS.
+5.1. É imprescindível para o registro dos dados e para acesso aos documentos e softwares propriamente dito que o Usuário tenha um endereço eletrônico ("e-mail") válido. A DS recomenda que o Usuário se certifique de que sua caixa de e-mail está apta a receber mensagens da DS.
 5.2. O Usuário concorda que a DS utilize o e-mail informado para enviar informações sobre os Documentos e Softwares, informações gerais ou quaisquer outras notificações que se façam necessárias.
 
 6. Da Interrupção dos Serviços
-6.1. A DS reserva o direito de interromper o acesso aos seus conteúdos quaisquer que sejam, independentemente de prévio aviso aos Usuários, sempre que, por medida de urgência se fizer necessária uma intervenção de natureza corretiva.
+6.1. A DS reserva o direito de interromper o acesso aos seus conteúdos quaisquer que sejam, independentemente de aviso prévio aos Usuários, sempre que, por medida de urgência se fizer necessária uma intervenção de natureza corretiva.
 6.2. O Usuário concorda que, além das hipóteses de manutenção preventiva e/ou corretiva previstas acima, o acesso ao Site, Documentos e Softwares poderá também ser interrompido por motivos de Força Maior, Caso Fortuito e qualquer outro motivo alheio ao controle e vontade da DS. A DS não se responsabiliza pela interrupção do serviço, atrasos ou falhas resultantes de quaisquer causas além de seu controle.
 
 7. Das Condutas Inaceitáveis previstas no Código de Conduta
 7.1. Para garantir o bom convívio dos Usuários, a DS não permitirá que os Usuários realizem Condutas Inaceitáveis e, quando isso ocorrer, a DS reserva-se o direito de agir através de processos legais correspondente conforme as leis de origem do país. A fim de manter o nível de lealdade entre os usuários, a DS solicita a colaboração dos Usuários em notificar a ocorrência de Condutas Inaceitáveis, as quais serão objeto de Sanções pela DS.
-7.2. As Condutas Inaceitáveis estão listadas, de forma exemplificativa, no grupo do Discord e Site. A DS poderá adequar ou incluir novas Condutas Inaceitáveis, sempre em benefício dos seus Documentos e Softwares. A divulgação de eventuais adequações ou inclusões aos Usuários dar-se-á por meio do grupo do Discord e Site. É de responsabilidade do Usuário manter-se informado quanto ás atualizações das Regras de Conduta.
+7.2. As Condutas Inaceitáveis estão listadas, de forma exemplificativa, no grupo do Discord e Site. A DS poderá adequar ou incluir novas Condutas Inaceitáveis, sempre em benefício dos seus Documentos e Softwares. A divulgação de eventuais adequações ou inclusões aos Usuários dar-se-á por meio do grupo do Discord e Site. É de responsabilidade do Usuário manter-se informado quanto as atualizações das Regras de Conduta.
 7.3. O Usuário respeitará integralmente as regras do Código de Conduta do Grupo estão disponíveis no Grupo do Discord e Site. A não observância das referidas regras implicará na aplicação da(s) respectiva(s) punição(ões).
 7.4. O Usuário declara ter ciência e concordar com as penalidades previstas no Código de Conduta do Grupo do Discord e Site.
 7.5  O uso de quaisquer programas, sistemas, rotinas, computadores ou dispositivos automatizados ilegais com os Documentos ou Softwares, Serviços ou Sites da DS é estritamente proibido e pode resultar em ações legais de acordo com as normas vigentes do país e com o Lei de Fraude e Abuso de Computadores (Computer Fraud and Abuse Act, Section 1030) federal do Estados Unidos. O desrespeito dessas normas pode resultar em ações judiciais de acordo com a lei, com as respectivas e cabíveis indenizações punitivas.
@@ -48,7 +48,7 @@ II. Cláusulas e condições Gerais
 8. Dos Direitos da DS em face de Conduzas Inaceitáveis
 8.1. A DS terá o direito de rever e suprimir do Grupo do Discord e Site todo o conteúdo, mensagens ou demais comunicados que considerar como decorrentes de Condutas Inaceitáveis, sendo de sua decisão o julgamento do que é considerado ofensivo, ilegal, ou acarretar a usurpação de direitos, prejudicar ou ameaçar a segurança de outro Usuário.
 8.2. Em caso de prática de quaisquer das Condutas Inaceitáveis, além de aplicar ao Usuário as penalidades correspondentes, a DS poderá revelar ás autoridades policiais, administrativas ou judiciárias, os dados cadastrais dos Usuários que tenham praticado qualquer ato que implique em violação das leis da República Federativa do Brasil ou dos direitos de terceiros interessados.
- 
+
 9. Da Rescisão Contratual:
 9.1. A rescisão contratual com cancelamento de "Cadastro de Usuário" antes de terminados e/ou consumidos os créditos adquiridos dar-se-á nas seguintes hipóteses e condições:
 9.1.1. Por desistência do consumidor: quando este, a qualquer momento, solicitar a rescisão do contrato.
